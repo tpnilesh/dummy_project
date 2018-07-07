@@ -1,0 +1,6 @@
+336c7ec9-3d21-4497-bcbf-0dcdc22d3983:
+  name: elasticsearch
+  es:
+    http_port: 9200
+    tcp_port: 9300
+    heap_size: 8192
